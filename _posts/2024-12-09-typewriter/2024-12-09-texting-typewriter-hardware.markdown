@@ -40,14 +40,14 @@ with the typewriter, I chose to directly replace the keyboard inputs
 with control hardware. Below is an image of the keyboard and its
 internal circuit.
 
-![keyboard interface]({{ site.baseurl }}/assets/images/keyboard_interface.webp)
+![keyboard interface](keyboard_interface.webp)
 
 Above you can see that the keyboard circuit is made up of two layers. On
 the left side of each layer is ribbon cable that ends in twelve pins
 each. You can imagine the two layers as a set of rows and columns as
 depicted below and the button presses, connected one row to one column.
 
-![grid circuit diagram]({{ site.baseurl }}/assets/images/grid_circuit_diagram.png)
+![grid circuit diagram](grid_circuit_diagram.png)
 
 The ribbon cables themselves are inserted into two headers on the
 typewriters circuit board. When any key is pressed on the keyboard, a
@@ -55,7 +55,7 @@ connection is made between one of the twelve pins on one header and one
 of the twelve pins on the other header causing that key to be typed on
 the typewriter, as demonstrated in the diagram below.
 
-![keyboard timing diagram]({{ site.baseurl }}/assets/images/keyboard_timing_diagram.png)
+![keyboard timing diagram](keyboard_timing_diagram.png)
 
 Below is an image of the actual typewriter circuit board. You can see
 the ribbon headers on the left side. On this board they have been
@@ -63,7 +63,7 @@ replaced with pin headers to allow the use of jumper wires. Using jumper
 wires it is possible to type any key on the typewriter by shorting the
 pin from one header to the other.
 
-![typewriter pcb]({{ site.baseurl }}/assets/images/typewriter_pcb.webp)
+![typewriter pcb](typewriter_pcb.webp)
 
 The first question is how does the typewriter know which pin on header A
 is connected to which pin on header B. For example, how does pin three
@@ -75,7 +75,7 @@ which includes a block showing my custom control circuit which takes
 care of the routing of the pins on one header to the other.
 
 
-![custom circuit control]({{ site.baseurl }}/assets/images/custom_circut_control.png)
+![custom circuit control](custom_circut_control.png)
 
 \*It would have been nice if the two twelve pin headers on the
 typewriter circuit board lined up neatly with twelve column inputs and
@@ -90,7 +90,7 @@ by using multiplexer to select a signal pin and a demultiplexer to
 assign that signal to a scanning pin as shown in the overall diagram
 below.
 
-![typeflow diagram]({{ site.baseurl }}/assets/images/typeflowdiagram.png)
+![typeflow diagram](typeflowdiagram.png)
 
 **Section A:** This section represents the low band pass filter through
 which all signals pass. Originally, I found a small spike in the pulse
@@ -157,6 +157,6 @@ control to the control circuit, the ESP32 only needs to communicate
 address via I2C to the control circuit.
 
 
-![demo of texts]({{ site.baseurl }}/assets/images/demo-of-texts.webp)
+![demo of texts](demo-of-texts.webp)
 
 Check out [Part 2](https://mrchristyengineering.wordpress.com/2024/12/10/the-texting-typewriter-software/) to learn about the software developed for this project.
