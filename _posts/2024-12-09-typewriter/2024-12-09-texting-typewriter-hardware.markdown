@@ -2,7 +2,7 @@
 layout: post
 title:  "The Texting Typewriter (hardware)"
 categories: [ Jekyll ]
-image: assets/images/typewriter_demo.webp
+image: ./typewriter_demo.webp
 ---
 This is my first blog post documenting the present state of my texting
 typewriter (and my first blog post ever). In future posts I will
