@@ -1,12 +1,12 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Mr Christy Engineering'
+description: 'Mr Christy does engineering projects'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: '/mrchristysengineering'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'schristy@medford.k12.ma.us'
+  # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -19,21 +19,21 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    mr_christy:
+      name:           Mr Christy
+      site:           https://mvthsengineering.com/
+      avatar:         /assets/images/sam-headshot.webp
+      bio:            "Sam founded the Engineering and Robotics shop at MVTHS in 2013. Prior to this he spent over 20 years as a professional in the field of engineering, developing and managing both software and hardware projects and is the sole inventor on two patents. He graduated from Tufts University with a degree in philosophy and a concentration in engineering science. He also holds a masters degree in education from Harvard University. Sam has a professional academic license for teaching physics and a professional vocational license for in Engineering Technology."
+      email:          schristy@medford.k12.ma.us
+        # twitter:        https://twitter.com/wowthemesnet
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+        #     mr_l:
+        #       name:           Mr L
+        #       site:           https://mvthsengineering.com/
+        #       avatar:         /assets/images/noah-head-1.webp
+        #       bio:            "Originally from Phoenix, Arizona, Noah has a BA in Art History from Duke University, and received his Masters degree in Architecture from Arizona State University before beginning to work for ASG Architects + Planners. He eventually moved to construction and design firm The Construction Zone before teaching electronics and engineering at Brophy College Preparatory. He is a registered Architect in the state of Arizona and holds a professional vocational teaching license in Engineering Technology."
+        #       email:          fakemail@gmail.com
+        #         # twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -45,6 +45,14 @@ defaults:
       layout: post
       author: sal
       avatar: /assets/images/avatar1.jpg
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: mr_christy
+      avatar: /assets/images/sam-headshot.webp
       
   # all pages
   - scope:
