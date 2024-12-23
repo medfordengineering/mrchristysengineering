@@ -130,6 +130,8 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
+  kramdown
+  rouge
 
 RUBY VERSION
    ruby 3.1.1p18
