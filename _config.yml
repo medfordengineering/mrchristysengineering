@@ -1,33 +1,25 @@
 # Site
-name: 'Mr Christy Engineering'
-description: 'Mr Christy does engineering projects'
+name: "Mr Christy Engineering"
+title: "Mr Christy Engineering"
+description: "Mr Christy does engineering projects"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: '/mrchristysengineering'
-disqus: 'demowebsite'
-email: 'schristy@medford.k12.ma.us'
-  # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-
+favicon: 'assets/images/logo.png'
+baseurl: /mrchristysengineering
+# google_analytics: 'UA-46278016-1'
+# disqus: 'demowebsite'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
-  # permalink: /:title/
 permalink: pretty
 
-# Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-postfiles
-  
+# Authors
 authors:
-    mr_christy:
-      name:           Mr Christy
-      site:           https://mvthsengineering.com/
-      avatar:         /assets/images/sam-headshot.webp
-      bio:            "Sam founded the Engineering and Robotics shop at MVTHS in 2013. Prior to this he spent over 20 years as a professional in the field of engineering, developing and managing both software and hardware projects and is the sole inventor on two patents. He graduated from Tufts University with a degree in philosophy and a concentration in engineering science. He also holds a masters degree in education from Harvard University. Sam has a professional academic license for teaching physics and a professional vocational license for in Engineering Technology."
-      email:          schristy@medford.k12.ma.us
-        # twitter:        https://twitter.com/wowthemesnet
+  mr_christy:
+    name:           Mr Christy
+    site:           https://mvthsengineering.com/
+    avatar:         /assets/images/sam-headshot.webp
+    bio:            "Sam founded the Engineering and Robotics shop at MVTHS in 2013. Prior to this he spent over 20 years as a professional in the field of engineering, developing and managing both software and hardware projects and is the sole inventor on two patents. He graduated from Tufts University with a degree in philosophy and a concentration in engineering science. He also holds a masters degree in education from Harvard University. Sam has a professional academic license for teaching physics and a professional vocational license for in Engineering Technology."
+    email:          schristy@medford.k12.ma.us
+      # twitter:        https://twitter.com/wowthemesnet
 
         #     mr_l:
         #       name:           Mr L
@@ -36,42 +28,61 @@ authors:
         #       bio:            "Originally from Phoenix, Arizona, Noah has a BA in Art History from Duke University, and received his Masters degree in Architecture from Arizona State University before beginning to work for ASG Architects + Planners. He eventually moved to construction and design firm The Construction Zone before teaching electronics and engineering at Brophy College Preparatory. He is a registered Architect in the state of Arizona and holds a professional vocational teaching license in Engineering Technology."
         #       email:          fakemail@gmail.com
         #         # twitter:        https://twitter.com/wowthemesnet
- 
-# Defaults
-defaults:
+  sal:
+    name: Sal
+    display_name: Sal
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-postfiles
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
 
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: mr_christy
-      avatar: /assets/images/sam-headshot.webp
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Syntax
+# Other
 markdown: kramdown
+
 kramdown:
-input: GFM
-syntax_highlighter: rouge
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
-# Paginate
-paginate: 10
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+  # adsense-data-ad-client: "ca-pub-3412143450191416"
+  # adsense-data-ad-slot: "1363087678"
 
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
 
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
