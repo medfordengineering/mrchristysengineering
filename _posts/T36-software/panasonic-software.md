@@ -1,1 +1,9 @@
+In this second half of my initial blog post, I will detail the software involved in controlling the texting typewriter. Please also check out my student's projects here.
 
+Step One: Sending an SMS message to a web application
+
+To allow the system to receive texts, it needs to act like a phone. It needs a number and a way to access the messages. For this, I use a cloud based phone service, Twilio.
+
+Twilio is a cloud-based service (with free account options) that can provide users with a phone number and on-line tools to manage the phone number such as applying webhooks. A webhook is a method for one application to automatically send real-time information to another application when a specific event occurs. In the case of the typewriter when the typewriter's Twilio number receives an SMS message it directs the contents of the message that message to the URL of the typewriter.
+
+Below is a graphic from the Twilio website that represents an SMS message being directed by Twilio to an application. In the case of the typewriter, I am only dealing with inbound SMS messages and HTTP requests, but in the future it would be possible to respond to text messages.
