@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "The Texting Typewriter (software)"
+categories: [ Jekyll ]
+image: ./typewriter_demo.webp
+---
+
 In this second half of my initial blog post, I will detail the software involved in controlling the texting typewriter. Please also check out my student's projects here.
 
 Step One: Sending an SMS message to a web application
