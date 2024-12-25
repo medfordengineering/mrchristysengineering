@@ -54,7 +54,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-postfiles
+  - jekyll-sass-converter
     
+sass:
+    sass_dir: _sass
+
 # Archives
 jekyll-archives:
   enabled:

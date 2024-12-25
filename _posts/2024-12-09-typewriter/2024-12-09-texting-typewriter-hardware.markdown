@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "The Texting Typewriter (hardware)"
+description: "The hardware side of my electronic typewriter"
 categories: [ Jekyll ]
-image: ./typewriter_demo.webp
+tags: [red]
+image: typewriter_demo.webp
+featured: true
+rating: 4.5
 ---
 This is my first blog post documenting the present state of my texting
 typewriter (and my first blog post ever). In future posts I will
