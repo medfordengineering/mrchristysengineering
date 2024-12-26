@@ -1,11 +1,9 @@
 <div id="utterances_thread"></div>
 <script src="https://utteranc.es/client.js"
-        repo="medfordengineering/mrchristysengineering"
-        issue-term="pathname"
-        theme="github-light"
+        repo="{{site.utterances.repo}}"
+        issue-term="{% if site.utterances.issue-term %}{{ site.utterances.issue-term }}{% else %}pathname{% endif %}"
+        theme="{% if site.utterances.theme %}{{ site.utterances.theme }}{% else %}github-light{% endif %}"
         crossorigin="anonymous"
         async>
 </script>
-   <script>
-       console.log("{{ site | jsonify }}");
-   </script>
+<p></p>
