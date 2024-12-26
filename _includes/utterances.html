@@ -1,6 +1,9 @@
 <div id="utterances_thread"></div>
 <script src="https://utteranc.es/client.js"
         repo="{{site.utterances.repo}}"
+        {% if site.utterances.label %}
+        label="{{ site.utterances.label }}"
+        {% endif %}
         issue-term="{% if site.utterances.issue-term %}{{ site.utterances.issue-term }}{% else %}pathname{% endif %}"
         theme="{% if site.utterances.theme %}{{ site.utterances.theme }}{% else %}github-light{% endif %}"
         crossorigin="anonymous"
