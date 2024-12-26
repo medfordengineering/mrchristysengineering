@@ -59,6 +59,7 @@ plugins:
   - jekyll-archives
   - jekyll-postfiles
   - jekyll-sass-converter
+  - jemoji
     
 sass:
     sass_dir: _sass

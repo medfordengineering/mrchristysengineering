@@ -18,4 +18,5 @@ group :jekyll_plugins do
     gem 'jekyll-postfiles'
     gem 'kramdown'
     gem 'rouge'
+    gem 'jemoji'
 end
