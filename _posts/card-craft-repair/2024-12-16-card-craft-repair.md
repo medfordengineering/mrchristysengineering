@@ -11,3 +11,9 @@ About a decade ago, I made about a dozen or so paper craft cards. Mostly these w
 My first project is to repair a Christmas paper craft card (see below) that is in such bad shape that it needs to be rebuilt completely.
 
 ![christmas](./Initialcard2.jpg)
+
+## Step One
+
+The first step is getting all my old tools together. Almost all of the work is done with pencil and the standard Xacto knife you see below. All of the design, drawing and cutting with very few exceptions is done freehand. I will use a straight edge to create parallel lines if I need letters to be similar height and I will cut with a straight edge for longer flat cuts such as stages. The eraser is useful for removing drawing lines. This this first time I have used a razor blade and it came in handy when I was fixing some mistakes. In addition, I have a supply of 
+
+![tools](./toolsofthetrade.jpg)
