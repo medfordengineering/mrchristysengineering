@@ -38,9 +38,9 @@ Once all the letters are cut, I cut a lot of triangle braces in different colors
 
 Here are the letters with mounts.
 
-![mounts](./letterswithmounts.jpg)
+![mounts](./leterswithmounts.jpg)
 
 And here is the first box of letters.
 
-![firstbox](./
+![firstbox](./boxoflettersonewhite2.jpg)
 
