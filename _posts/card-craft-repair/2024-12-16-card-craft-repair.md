@@ -32,7 +32,15 @@ The next step is to trace the outlines of all of the parts of the original desig
 
 ## Step Three
 
-Once all the letters are cut, I cut a lot of triangle braces in different colors which will be used to support the letters.
+Once all the letters are cut, I cut a lot of triangle braces in different colors which will be used to support the letters. Then I glue the mounts to the letters and begin to create the boxes of letters.
 
 ![letters](./Lettersoncuttingmat.jpg)
+
+Here are the letters with mounts.
+
+![mounts](./letterswithmounts.jpg)
+
+And here is the first box of letters.
+
+![firstbox](./
 
