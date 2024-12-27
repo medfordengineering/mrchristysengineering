@@ -28,3 +28,11 @@ In addition, I have a good supply of Canford 110lb paper which I used to be able
 
 The next step is to trace the outlines of all of the parts of the original design. Again, the initial versions were all done freehand so I am just coping the freehand versions. Even straigh lines are done freehand. This gives all of the letters a consistent look.
 
+![cutouts](./cutoutses.jpg)
+
+## Step Three
+
+Once all the letters are cut, I cut a lot of triangle braces in different colors which will be used to support the letters.
+
+![letters](./Lettersoncuttingmat.jpg)
+
