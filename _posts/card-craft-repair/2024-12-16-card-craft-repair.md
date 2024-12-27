@@ -42,5 +42,5 @@ Here are the letters with mounts.
 
 And here is the first box of letters.
 
-![firstbox](./boxoflettersonewhite2.jpg)
+![firstbox](./boxoflettersonwhite2.jpg)
 
