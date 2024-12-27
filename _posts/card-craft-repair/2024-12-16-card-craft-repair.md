@@ -49,3 +49,7 @@ And here is the first box of letters.
 Step four is change the plan. I woke up the next morning and decided that I did not want to have the white bases on the boxes. At first I thought I would use black to match the base, but then decided to remove them all together. Here is where the razor blade came in handy. It would have been impossible to surgically remove the base with a standard Xacto knife.
 
 ![changeofplan](./cuttingoffmounts.jpg)
+
+Below you can see two views of the boxes almost complete and without bases. 
+
+![boxessideview](./threeboxes3.jpg) ![topboxes](./threeboxestop1.jpg)
