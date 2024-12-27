@@ -14,6 +14,10 @@ My first project is to repair a Christmas paper craft card (see below) that is i
 
 ## Step One
 
-The first step is getting all my old tools together. Almost all of the work is done with pencil and the standard Xacto knife you see below. All of the design, drawing and cutting with very few exceptions is done freehand. I will use a straight edge to create parallel lines if I need letters to be similar height and I will cut with a straight edge for longer flat cuts such as stages. The eraser is useful for removing drawing lines. This this first time I have used a razor blade and it came in handy when I was fixing some mistakes. In addition, I have a supply of 
+The first step is getting all my old tools together. Almost all of the work is done with pencil and the standard Xacto knife you see below. All of the design, drawing and cutting with very few exceptions is done freehand. I will use a straight edge to create parallel lines if I need letters to be similar height and I will cut with a straight edge for longer flat cuts such as stages. The eraser is useful for removing drawing lines. This this first time I have used a razor blade and it came in handy when I was fixing some mistakes. 
 
 ![tools](./toolsofthetrade.jpg)
+
+In addition, I have a good supply of Canford 110lb paper which I used to be able to buy locally, but unfortunately, now must purchase on line.
+
+![paper](./canfordpaper.jpg)
