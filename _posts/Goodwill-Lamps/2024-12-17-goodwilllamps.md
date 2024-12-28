@@ -8,7 +8,7 @@ A couple of years ago, I began gathering colored glass and small vases from Good
 
 I drilled a hole in each of the glasses using glass hole saws. I then cut off each light in the string placed the socket in the glass and soldered them back together using waterproof solder seal connectors.
 
-![solderseal](./glasswire.jpg) ![solderseal2](./glasswire2.jpg)
+![solderseal](./glasswire.jpg) ![solderseal2](./glaswires2.jpg)
 
 Here they are in the day light. 
 
