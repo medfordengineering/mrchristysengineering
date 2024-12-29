@@ -20,6 +20,8 @@ If you can see at the end are a set of larger vases. Because these were heavier,
 
 Also the original hangers (see below) were not designed for a lateral stress, so I custom made the four hole plates and had my friend weld on the hooks. 
 
+![hangers](./hangers.jpg)
+
 And here they are at night. 
 
 ![frontyard](./lightsfrontnight.jpg)
