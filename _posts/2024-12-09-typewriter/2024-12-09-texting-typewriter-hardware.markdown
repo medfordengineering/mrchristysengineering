@@ -158,4 +158,4 @@ address via I2C to the control circuit.
 
 ![demo of texts](demo-of-texts.webp)
 
-Check out [Part 2](https://mrchristyengineering.wordpress.com/2024/12/10/the-texting-typewriter-software/) to learn about the software developed for this project.
+Check out [Part 2](https://medfordengineering.github.io/mrchristysengineering/jekyll/2024/12/10/software/) to learn about the software developed for this project.
