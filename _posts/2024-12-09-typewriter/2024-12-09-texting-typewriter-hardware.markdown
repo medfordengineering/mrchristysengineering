@@ -8,14 +8,9 @@ image: typewriter_demo.webp
 featured: true
 rating: 4.5
 ---
-This is my first blog post documenting the present state of my texting
-typewriter (and my first blog post ever). In future posts I will
-document both past and present work on this project, plus lots of other
-projects. This is my eleventh year teaching Engineering and Robotics at
-Medford Vocational Technical High School. Please check out my shop and
-student's projects [here](https://mvthsengineering.com/).
+This is my first blog post documenting the present state of my texting typewriter --and my first blog post ever. In future posts I will document both past and present work on this project, plus lots of other projects. This is my eleventh year teaching Engineering and Robotics at Medford Vocational Technical High School. Please check out my shop and student's projects [here](https://mvthsengineering.com/). This post was also featured on [Hackaday](https://hackaday.com/2024/12/18/back-to-the-future-of-texting-sms-on-a-panasonic-typewriter/)
 
-The typewriter is a mid-80's Panasonic T36 that can receive SMS messages
+The typewriter is a mid-80's Panasonic T36 that can receive SMS messages.
 and print them along with the time of the message and the name of the
 sender. I have designed a generic hardware circuit that should be
 compatible with any electric typewriter (I will be testing a Brother
