@@ -20,13 +20,13 @@ The pocket knife is used for its small pair of scissors. The tweezers are useful
 
 ![tools](./toolsofthetrade.jpg)
 
-In addition, I have a good supply of Canford 110lb paper which I used to be able to buy locally, but unfortunately, now must purchase on line.
+In addition, I have a good supply of Canford 110lb paper which I used to be able to buy locally. Unfortunately, I cannot even find it online so I have ordered some Colorplan paper in 100lb and 130lb. Colorplan is owned by GF Smith and you can check out their line [here](https://www.gfsmith.com/our-papers/colorplan). 
 
 ![paper](./canfordpaper.jpg)
 
 ## Step Two
 
-The next step is to trace the outlines of all of the parts of the original design. Again, the initial versions were all done freehand so I am just coping the freehand versions. Even straigh lines are done freehand. This gives all of the letters a consistent look.
+The next step is to trace the outlines of all of the parts of the original design. Again, the initial versions were all done freehand, so I am just copying the freehand versions. Even straigh lines are done freehand. This gives all of the letters a consistent look.
 
 ![cutouts](./cutoutses.jpg)
 
@@ -46,10 +46,12 @@ And here is the first box of letters.
 
 # Step Four
 
-Step four is change the plan. I woke up the next morning and decided that I did not want to have the white bases on the boxes. At first I thought I would use black to match the base, but then decided to remove them all together. Here is where the razor blade came in handy. It would have been impossible to surgically remove the base with a standard Xacto knife.
+Step four is change the plan. I woke up the next morning and decided that I did not want to have the white bases on the boxes. At first, I thought I would use black to match the base, but then decided to remove them all together. Here is where the razor blade came in handy. It would have been impossible to surgically remove the base with a standard Xacto knife.
 
 ![changeofplan](./cuttingoffmounts.jpg)
 
 Below you can see two views of the boxes almost complete and without bases. 
 
 ![boxessideview](./threeboxes3.jpg) ![topboxes](./threeboxestop1.jpg)
+
+In the next post, I will be testing a variety of sealers. The goal is to find a sealer that will help these cards last a very long time.
