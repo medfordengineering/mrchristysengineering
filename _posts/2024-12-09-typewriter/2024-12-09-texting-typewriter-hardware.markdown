@@ -4,7 +4,7 @@ title:  "The Texting Typewriter (hardware)"
 description: "The hardware side of my electronic typewriter"
 categories: [ Jekyll ]
 tags: [red]
-image: typewriter_demo.webp
+image: topview.jpg
 featured: true
 rating: 4.5
 ---
