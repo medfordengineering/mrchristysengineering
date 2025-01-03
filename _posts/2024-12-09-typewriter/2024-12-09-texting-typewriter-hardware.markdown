@@ -126,11 +126,9 @@ has four bidirectional switches each controlled by a single pin. Each
 pulse pin is only matched with one scan pin so this solution can work
 for up to four command keys.
 
-**Section E:** The entire routing circuit is controlled by a MCP23017
-16-Bit I2C I/O Expander. This IC controls the whole circuit by
-addressing the multiplexer, de-multiplexer, and quad switch. It receives
-commands via I2C so it can be controlled by just about any
-microcontroller. In this case it is an ESP32.
+**Section E:** The entire routing circuit is controlled by a MCP23017 16-Bit I2C I/O Expander. This IC controls the whole circuit by addressing the multiplexer, de-multiplexer, and quad switch. It receives commands via I2C so it can be controlled by just about any microcontroller. In this case it is an ESP32.
+
+![sideview](./sideview.jpg)
 
 **Rational:** This circuit design evolved from an earlier version I made
 a few a years ago. The original version used an Arduino to control the
