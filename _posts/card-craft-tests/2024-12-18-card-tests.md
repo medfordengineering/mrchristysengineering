@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper Craft Repair (Sealer Test)"
+title: "Paper Craft Repair (testing sealers)"
 image: ./thelineup.jpg
 category: [_Jekyll_]
 ---
