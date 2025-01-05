@@ -19,9 +19,9 @@ I am one of two instructors of Engineering and Robotics at the Medford Vocationa
 <div class="sticky-top sticky-top-80" markdown="1">
 
 #### Check out our students [work](https://mvthsengineering.com/)
-
-</div>
-</div>
-</div>
-
 ![theshop](./garagetwo.jpg)
+</div>
+</div>
+</div>
+
+
