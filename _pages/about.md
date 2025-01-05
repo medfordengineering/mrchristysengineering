@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Mr. Christy's Robotics and Engineering
+title: Welcome to Mr. Christy's Robotics and Engineering Blog
 permalink: /about
 comments: true
 image: ./garagetwo.jpg
@@ -9,7 +9,8 @@ image: ./garagetwo.jpg
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5" markdown="1">
 
-#### Page Under Construction :construction_worker_woman:
+#### About Me
+I am one of two instructors of Engineering and Robotics at the Medford Vocational Technical High School. Mr. Lewkowitz and I divide the instruction of the shop into CAD and machinging, and programming and electronics respectively. 
 
 </div>
 
