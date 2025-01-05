@@ -3,6 +3,7 @@ layout: page
 title: Welcome to Mr. Christy's Robotics and Engineering
 permalink: /about
 comments: true
+image: ./garagetwo.jpg
 ---
 
 <div class="row justify-content-between">
