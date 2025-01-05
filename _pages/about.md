@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Welcome to Mr. Christy's Robotics and Engineering
 permalink: /about
 comments: true
 ---
