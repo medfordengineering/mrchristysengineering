@@ -13,7 +13,11 @@ Students in the Engineering Technology Chapter 74 Career and Technical Education
 
 Students learn these skills by following a pair self-paced guides authored by the two Engineering shop teachers: one covers electronics and software and the other covers computer aided design (CAD) and machining. In addition, students in their sophomore year must complete two projects designed to test their engineering skills. Students are expected to design and build each of these projects using raw materials in the shop. The projects are intended to cover the skills they learned from the guides and they are the only projects in the shop that must be completed by a deadline.
 
-The first project is a light box which must include a custom circuit board. This is the only graded project in the program and it is graded by the shop’s juniors and seniors following a teacher designed rubric. Below are some examples of this project.
+The first project is a light box. The box is designed to illuminate an acrylic panel with limitations only on size and materials. This is the only graded project in the program and it is graded by the shop’s juniors and seniors following a teacher designed rubric.  As you can see, the results vary widely.
+
+The project begins with draft designs and notes in the student's engineering journal. The next step is to design an electronic circuit on a breadboard that will drive their light box. This breadboard design is than transfered to a schematic using an electronic computer aided drafting (ECAD) tool in Autodesk's fusion software. This schematic is then transformed into a design for the actual PCB that will be milled in the shop. Once these two steps are complete, the student can create a 3D model of their final PCB. 
+
+The next step is to focus on designing a housing that will hold their PCB, the controls and the acrylic display itself.
 
 ![The Initial Paper Draft](./bfly.jpg)
 
