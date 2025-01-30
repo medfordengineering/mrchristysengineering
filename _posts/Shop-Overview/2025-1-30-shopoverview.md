@@ -1,6 +1,6 @@
 ---
 title: Engineering Shop Overview
 image: ./fullshop.jpg
-post: blog
+layout: post
 categories: [_Jekyll_]
 ---
