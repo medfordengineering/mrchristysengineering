@@ -9,14 +9,13 @@ This post is a long overdue description of the Engineering and Robotics program 
 
 Our school will be undergoing an accredidation process next year and this inital report is part of the process. They choose to focus on our shop in particular as it meets one of the goals of this year's review: *students are active learners who have opportunities to lead their learning...through applications of knowledge and skills to authentic tasks and pursuit of personal interests and opportunities for creative expression.*
 
-
 Students in the Engineering Technology Chapter 74 Career and Technical Education program at MVTHS spend over one-third of their high school time in shop. Starting in ninth grade, students begin learning the basic skills required to design and build just about anything. These skills include: designing electronic circuits, writing code for embedded devices, manufacturing circuit boards, designing parts in CAD and fully machining those parts on CNC machines. 
 
 Students learn these skills by following a pair self-paced guides authored by the two Engineering shop teachers: one covers electronics and software and the other covers computer aided design (CAD) and machining. In addition, students in their sophomore year must complete two projects designed to test their engineering skills. Students are expected to design and build each of these projects using raw materials in the shop. The projects are intended to cover the skills they learned from the guides and they are the only projects in the shop that must be completed by a deadline.
 
 The first project is a light box which must include a custom circuit board. This is the only graded project in the program and it is graded by the shop’s juniors and seniors following a teacher designed rubric. Below are some examples of this project.
 
-
+![The Initial Paper Draft](./bfly.jpg)
 
 
 
