@@ -2,5 +2,5 @@
 title: Engineering Shop Overview
 image: ./fullshop.jpg
 post: blog
-layout: [_Jekyll_]
+categories: [_Jekyll_]
 ---
