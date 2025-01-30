@@ -24,19 +24,11 @@ The first project is a light box. The box is designed to illuminate an acrylic p
 <figcaption>On this light box a user change the red, green, and blue values using knobs.</figcaption>
 <img src="https://drive.google.com/uc?export=view&id=1EpGs8cYx_gUO_YZhmwfDoWrFwge1RSOK" alt="Description" width="300" height="200"> 
 
-
+<img src="https://drive.google.com/uc?export=view&id=1ficaSBuKXAmtO5qDeWrwabv6Ds4KwK2f" align="right" width="300" height="200" >
 
 The project begins with draft designs and notes in the student's engineering journal. The next step is to design an electronic circuit on a breadboard that will drive their light box. This breadboard design is than transfered to a schematic using an electronic computer aided drafting (ECAD) tool in Autodesk's fusion software. This schematic is then transformed into a design for the actual PCB that will be milled in the shop. Once these two steps are complete, the student can create a 3D model of their final PCB. 
 
 The next step is to focus on designing a housing that will hold their PCB, the controls and the acrylic display itself.
-
-![The Initial Paper Draft](./bfly.jpg)
-
-
-
-
-
-
 
 The second sophomore project is to design a sumo robot for a competition held each spring. Again all robots are built from raw materials in the shop with some constraints on size and weight. The final competition is run completely by the shop’s juniors and seniors. Below are some photos of the project.
 
