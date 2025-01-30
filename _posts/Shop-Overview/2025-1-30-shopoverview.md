@@ -15,11 +15,16 @@ Students learn these skills by following a pair self-paced guides authored by th
 
 The first project is a light box. The box is designed to illuminate an acrylic panel with limitations only on size and materials. This is the only graded project in the program and it is graded by the shop’s juniors and seniors following a teacher designed rubric.  As you can see, the results vary widely.
 
-<img src="https://drive.google.com/uc?export=view&id=1pzuKOy4rDfGrdldxlTtlcKadcTZLLjY3" alt="Description" width="300" height="200">
+<figcaption>This light box is designed to look like an underwater ROV</figcaption>
 
-|First Image|Second Image|
-|:-:|:-:|
-|![First Image](https://photos.app.goo.gl/TnpzuvvSWLeTJyuC6.jpeg?h=750&w=1260)|![Second Image](https://images.pexels.com/photos/1335115/pexels-photo-1335115.jpeg?h=750&w=1260)
+<img src="https://drive.google.com/uc?export=view&id=1sUKVkuuPM9HSODKDWH7ul0b8B2iA2xHi" alt="Description" width="300" height="200"> 
+
+<figcaption>On this light box the stock panels change color every five minutes depending on stock's gaining or losing value.</figcaption>
+<img src="https://drive.google.com/uc?export=view&id=1pzuKOy4rDfGrdldxlTtlcKadcTZLLjY3" alt="Description" width="300" height="200">
+<figcaption>On this light box a user change the red, green, and blue values using knobs.</figcaption>
+<img src="https://drive.google.com/uc?export=view&id=1EpGs8cYx_gUO_YZhmwfDoWrFwge1RSOK" alt="Description" width="300" height="200"> 
+
+
 
 The project begins with draft designs and notes in the student's engineering journal. The next step is to design an electronic circuit on a breadboard that will drive their light box. This breadboard design is than transfered to a schematic using an electronic computer aided drafting (ECAD) tool in Autodesk's fusion software. This schematic is then transformed into a design for the actual PCB that will be milled in the shop. Once these two steps are complete, the student can create a 3D model of their final PCB. 
 
