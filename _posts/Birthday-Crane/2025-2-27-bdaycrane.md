@@ -2,6 +2,6 @@
 layout: post
 title: "Birthday Cranes"
 categories: [ Jekyll ]
-image: ./none.jpg
+image: ./bird1.jpg
 ---
 
