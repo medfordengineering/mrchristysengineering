@@ -13,6 +13,8 @@ Next I needed to paint the cranes with a few couple of Powertex, a high quality 
 ![powertex](./brushbird.jpg)
 Next I placed the cut cranes on the white background and the whole cranes on hardened steel wire coming out of the background. I then added two more coats of Powertex to fully seal the design.
 ![onframe](./topbird.jpg)
+Here you can see the final design drying.
+![drying](./bird1.jpg)
 
 
 
