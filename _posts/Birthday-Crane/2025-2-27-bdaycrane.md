@@ -11,6 +11,8 @@ My idea was to create an image of cranes flying in formation out of a white back
 ![cutcranes](./cutbird.jpg)
 Next I needed to paint the cranes with a few couple of Powertex, a high quality paper hardener. I also painted the white background.
 ![powertex](./brushbird.jpg)
+Next I placed the cut cranes on the white background and the whole cranes on hardened steel wire coming out of the background. I then added two more coats of Powertex to fully seal the design.
+![onframe](./topbird.jpg)
 
 
 
