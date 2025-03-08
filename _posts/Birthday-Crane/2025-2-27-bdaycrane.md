@@ -16,7 +16,7 @@ Next I placed the cut cranes on the white background and the whole cranes on har
 Here you can see the final design drying.
 ![drying](./bird1.jpg)
 And finally two pictures of the final version hanging on the wal.
-![framedone](./wall2bird.jpg)
+![framedone](./birdlast.jpg)
 ![framedtwo](./wallclosebird.jpg)
 
 
