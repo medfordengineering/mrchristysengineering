@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paper Craft Repair"
-image: ./boxoflettersonwhite1.jpg
+image: ./singleletter.JPG
 categories: [_Jekyll_]
 ---
  
