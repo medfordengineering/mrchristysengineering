@@ -4,7 +4,7 @@ title: "Paper Craft Repair"
 image: ./boxoflettersonwhite1.jpg
 categories: [_Jekyll_]
 ---
-
+ 
 I purchased this box of letters along with a small chalk board at our local Goodwill store. 
 ![box](./lettersinbox.JPG)
 
