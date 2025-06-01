@@ -14,6 +14,5 @@ The other problem is that the small letters fall through the metal slats after c
 Here you can see a few letters.
 ![lettersinjet](./tileletters.JPG)
 
-And here you can see 
-
+And here you can see the final set of letters.
 ![lettersinjet](./nowplaying.JPG)
