@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper Craft Repair"
+title: "Album Letters"
 image: ./singleletter.JPG
 categories: [_Jekyll_]
 ---
