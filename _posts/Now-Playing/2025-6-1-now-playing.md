@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Tile Letters"
-image: ./boxoflettersonwhite1.jpg
+image: ./nowplaying.JPG
 categories: [_Jekyll_]
 ---
