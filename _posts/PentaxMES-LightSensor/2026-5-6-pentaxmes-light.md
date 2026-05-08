@@ -10,6 +10,9 @@ This post represents a continuation of my work to retro-mod vintage film cameras
 
 The Pentax ME Super use two photodiodes for sensing light. The photodiodes are placed on two sides of a circuit board that slides in behind the view finder as shown below. 
 
+![grid](./zpsensor.JPG)
+![grid](./zpsensorinc.JPG)
+
 ## Photodiodes vs Ambient Light Sensors
 
 My inital plan was to use an ambient light sensor for this project. These sensors come in a single package. They generally talk I2C. They cover a wide range of the visible spectrum. They do not require a separate analog to digital converter. On the downside, there is a limited selection of these devicee. They require a software library. The are really, really, really small, with no-lead packages. I successfully soldered one of two in our Cuisinart reflow oven. Many, surprisingly, have fixed addresses meaning that you can't easily have two or more more on the same bus. Below you can see the first board I made using a pair of OPT3001. 
