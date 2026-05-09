@@ -12,7 +12,9 @@ The Pentax ME Super use two photodiodes for sensing light. In the first picture 
 ![grid](./zpsensor.JPG)
 ![grid2](./zpsensorinc.JPG)
 
-Here you can see how the two photo diodes are connected by what appears to be a single transistor before going into the MCU. There is no evidence of an opamp on the circuit at all. 
+Here you can see how the two photo diodes (seen from the back) are connected by what appears to be a single transistor before going into the MCU. There is no evidence of an opamp on the circuit at all. 
+![grid3](./ztrans.JPG)
+
 
 ## Photodiodes vs Ambient Light Sensors
 
