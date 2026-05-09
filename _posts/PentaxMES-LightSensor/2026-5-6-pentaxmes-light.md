@@ -1,6 +1,6 @@
----https://github.com/medfordengineering/mrchristysengineering/tree/master/_posts/PentaxMES-LightSensor
+---
 layout: post
-title:  "Pentax MES RetroMod (light sensor)"
+title:  "Pentax ME Super RetroMod (light sensor)"
 categories: [ Jekyll ]
 image: ./ZZ-coverart.JPG
 ---
