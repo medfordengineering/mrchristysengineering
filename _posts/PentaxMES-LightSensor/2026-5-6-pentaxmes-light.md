@@ -29,5 +29,7 @@ In addition, I designed and soldered a photo diode sensor circuit. Unfortunately
 
 The circuit uses the [TEMD5510FX01](https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TEMD5510FX01/1681184) photodiode. This is an ambient light sensor with high photo sensitivity using a large 7.5 mm2 sensitive area. It is sensitive to visible light much like the human eye and has peak sensitivity at 540 nm. The opamp is a [OPA365](https://www.digikey.com/en/products/detail/texas-instruments/OPA365AIDBVT/1572587) and is based on a circuit I designed using TIs  [photodiode circuit design tool](https://dev.ti.com/gallery/view/TIA/Photodiode_Circuit_Design_Tool/ver/1.0.3/).
 
-Note the two opamp circuits are designed slightly differet. One uses a single sided supply and the other uses a dual (positive and negative) supply. I also added the ADC [MCP3426](https://www.digikey.com/en/products/detail/microchip-technology/MCP3426A0T-E-SN/2178722),a dual input
+Note the two opamp circuits are designed slightly differet. One uses a single sided supply and the other uses a dual (positive and negative) supply. I also added the [MCP3426](https://www.digikey.com/en/products/detail/microchip-technology/MCP3426A0T-E-SN/2178722), a dual input ADC.
+
+The entire circuit seems to work well, but range does not feel idea. Minimal testing shows a very small differential (0V to 1V) for general light levels and a little over 1.6V shinning my bike headlight about an inch above the sensor. My goal is to have a linear range from a night scene to a brightly lit day.
 
