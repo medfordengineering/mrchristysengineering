@@ -18,5 +18,8 @@ Here you can see how the two photo diodes (seen from the back) are connected by 
 
 ## Photodiodes vs Ambient Light Sensors
 
-My inital plan was to use an ambient light sensor for this project. These sensors come in a single package. They generally talk I2C. They cover a wide range of the visible spectrum. They do not require a separate analog to digital converter. On the downside, there is a limited selection of these devicee. They require a software library. The are really, really, really small, with no-lead packages. I successfully soldered one of two in our Cuisinart reflow oven. Many, surprisingly, have fixed addresses meaning that you can't easily have two or more more on the same bus. Below you can see the first board I made using a pair of OPT3001. 
+With regard to replacing these snesor, I have gone back and forth MANY times on whether to use an integrated logic level ambient light sensor or a photodiode. The integrated sensors come in a single package. They generally talk I2C. They cover a wide range of the visible spectrum and they do not require a separate analog to digital converter. On the downside, there is a limited selection of these devicee. They require a software library. They are really, really, really small, with no-lead packages. Many, surprisingly, have fixed addresses meaning that you can't easily have two or more more on the same bus. Below you can see the first board I made using a pair of OPT3001 which includes a clever way to select one of four addresses. 
+
+
+I successfully soldered one of two in our Cuisinart reflow oven. 
 
