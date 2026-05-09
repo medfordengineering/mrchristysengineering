@@ -31,5 +31,5 @@ The circuit uses the [TEMD5510FX01](https://www.digikey.com/en/products/detail/v
 
 Note the two opamp circuits are designed slightly differet. One uses a single sided supply and the other uses a dual (positive and negative) supply. I also added the [MCP3426](https://www.digikey.com/en/products/detail/microchip-technology/MCP3426A0T-E-SN/2178722), a dual input ADC.
 
-The entire circuit seems to work well, but range does not feel idea. Minimal testing shows a very small differential (0V to 1V) for general light levels and a little over 1.6V shinning my bike headlight about an inch above the sensor. My goal is to have a linear range from a night scene to a brightly lit day.
+The entire circuit seems to work well, but range does not feel ideal. Minimal testing shows a very small differential (0V to 1V) for general light levels and a little over 1.6V shinning my bike headlight about an inch above the sensor. My goal is to have a linear range from a night scene to a brightly lit day.
 
