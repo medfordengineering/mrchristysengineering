@@ -8,10 +8,11 @@ This post represents a continuation of my work to retro-mod vintage film cameras
 
 ## The Pentax Sensors
 
-The Pentax ME Super use two photodiodes for sensing light. The photodiodes are placed on two sides of a circuit board that slides in behind the view finder as shown below. 
-
+The Pentax ME Super use two photodiodes for sensing light. In the first picture below you can see the PCB with the two photodiodes. The second picture shows how they slide in on either side of the view finder. 
 ![grid](./zpsensor.JPG)
 ![grid2](./zpsensorinc.JPG)
+
+Here you can see how the two photo diodes are connected by what appears to be a single transistor before going into the MCU. There is no evidence of an opamp on the circuit at all. 
 
 ## Photodiodes vs Ambient Light Sensors
 
