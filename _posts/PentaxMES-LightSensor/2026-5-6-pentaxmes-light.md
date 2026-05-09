@@ -18,9 +18,12 @@ Here you can see how the two photo diodes (seen from the back) are connected by 
 
 ## Photodiodes vs Ambient Light Sensors
 
-With regard to replacing these sensors, I have gone back and forth MANY times on whether to use an integrated logic level ambient light sensor or a photodiode. The integrated sensors come in a single package. They generally talk I2C. They cover a wide range of the visible spectrum and they do not require a separate analog to digital converter. On the downside, there is a limited selection of these devicee. They require a software library. They are really, really, really small, with no-lead packages. Many, surprisingly, have fixed addresses meaning that you can't easily have two or more more on the same bus. Below you can see the first board I made using a pair of OPT3001 which includes a clever way to select one of four addresses. https://www.digikey.com/en/products/detail/texas-instruments/OPT3001DNPR/5178351
+With regard to replacing these sensors, I have gone back and forth MANY times on whether to use an integrated logic level ambient light sensor or a photodiode. The integrated sensors come in a single package. They generally talk I2C. They cover a wide range of the visible spectrum and they do not require a separate analog to digital converter. On the downside, there is a limited selection of these devicee. They require a software library. They are really, really, really small, with no-lead packages. Many, surprisingly, have fixed addresses meaning that you can't easily have two or more more on the same bus. Below you can see the first board I made using a pair of [OPT3001]( https://www.digikey.com/en/products/detail/texas-instruments/OPT3001DNPR/517835) which includes a clever way to select one of four addresses.1 
 ![grid3](./zintsensors.JPG)
 
 Note that the PCB is the same dimensions as the one it is replacing including a .8mm thickness which is available from JLCPCB. Soldering these tiny sensors proved to be as difficult as I imagined. This board was soldered using our Cuisinart reflow oven. One of the two sensors worked. The other failed for a reason that was impossible to diagnose. I made a second board and both failed with short between power and ground. Both of these were soldered without a stencil. I will be ordering the stencil and trying again as soon as it arrives. I am a little more hopeful. In the worse case, I could have JLCPCB complete the soldering.
 
+In addition, I designed and soldered a photo diode sensor circuit. Unfortunately, I don't seem to have a photo at the moment of the completed circuit, but below is an image of the schematic and PCB design.
+![grid3](./zschematic.JPG)
+![grid3](./zintsensors.JPG)
 
