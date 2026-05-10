@@ -20,3 +20,12 @@ Like many diy shutter testers found on-line, I began with simple light and a pho
 
  
  ![solderseal](./zcoverback.JPG)
+
+ Below you can see the three-sensor module ready to be mounted.
+
+  
+ ![solderseal](./zmodeule.JPG)
+
+ I did a lot of testing in this configuration. Originally, I used a 24 
+
+
