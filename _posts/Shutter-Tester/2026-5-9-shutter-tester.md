@@ -26,7 +26,7 @@ Like many diy shutter testers found on-line, I began with simple light and a pho
   
  ![solderseal](./zmodeule.JPG)
 
-I did a lot of testing in this configuration. Originally, I used a 24V LED light panel that I made from a picture frame with magnetic filters. The light is bright--really bright. I measures over 16EV at 100ASA. I found that the sensors which have a wavelength of 935nm (high in the IR range) would only register when this light was on full--essentially it got hot enough to transmit IR light. 
+I did a lot of testing in this configuration. Originally, I used a 24V LED light panel that I made from a picture frame with custom magnetic filters. The light is bright--really bright. I measures over 16EV at 100ASA. I found that the sensors which have a wavelength of 935nm (high in the IR range) would only register when this light was on full--essentially it got hot enough to transmit IR light. 
 
  ![solderseal](./zbiglight.JPG) 
 
@@ -50,11 +50,11 @@ After realizing that pushing the brightness of the 24V LED panel just to squeeze
 
    ![solderseal](./zlaser.JPG)
 
-   Using lasers the results improved a lot in that I was getting more consistent readings across all three sensors, but there were aberations and on the scope I noticed some pulses that I did not think should be there. It was then I realized that maybe using an aluminum plate (the result of realizing that earlier that IR light goes right through black acrylic, a whole other learning process) might be causing IR reflections. I finally painted the three sensor panel flat black as you can see below.
+   Using lasers the results improved a lot in that I was getting more consistent readings across all three sensors, but there were aberations and on the scope, and I noticed some pulses that I did not think should be there. It was then I realized that maybe using an aluminum plate (the result of realizing that earlier that IR light goes right through black acrylic, a whole other learning process) might be causing IR reflections. I finally painted the three sensor panel flat black as you can see below.
 
    ![solderseal](./zfourholes.JPG)
 
-   I also added three LEDs to the circuit which illuminate when a sensor is triggered. This way I am much more easily line up the lasers with the sensors through a camera using bulb mode. I also designed a PCB which puts the LEDs in the sensor plate and provides a 5=pin connector to make everything much more compact. 
+   I also added three LEDs to the circuit which illuminate when a sensor is triggered. This way I am much more easily line up the lasers with the sensors through a camera using bulb mode. I also designed a PCB which puts the LEDs in the sensor plate and provides a 5-pin connector between the panel and the circuit. This would make everything much more compact. 
 
    ![solderseal](./zthreeleds.JPG)
 
