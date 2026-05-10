@@ -14,4 +14,4 @@ Like many diy shutter testers found on-line, I began with simple light and a pho
 
  ![solderseal](./zbump.JPG)
 
- I honestly cannot remember all the interations I went through, but I landed on a design that uses the [OPL560](https://www.digikey.com/en/products/detail/tt-electronics-optek-technology/OP950/498711), an photodiode with integrated logic. 
+ I honestly cannot remember all the interations I went through, but I landed on a design that uses three [OPL560](https://www.digikey.com/en/products/detail/tt-electronics-optek-technology/OP950/498711), an photodiode with integrated logic. The three sensors are placed in a diagonal line starting at the top left corner of the sensor plate and going down exactly 8mm and across 12mm. 
