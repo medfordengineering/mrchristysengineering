@@ -8,6 +8,6 @@ In order to any work on cameras, I needed a way to accurately test their shutter
 
 Like many diy shutter testers found on-line, I began with simple light and a phototransistor sensitive in the ambient light range. 
 
- ![solderseal2](./zlamp.JPG)
+ ![solderseal2](./zearly.JPG)
 
  ![solderseal](./glasswire.jpg)
