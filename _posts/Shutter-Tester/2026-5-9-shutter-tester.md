@@ -38,4 +38,10 @@ The above is taken from a Nikon FE2 in very good condition. The shutter speeds f
 
 My bigger concern has been getting consistent readings on all three sensors. One in the upper right corner of the shutter. One in the middle and one in the lower right. Initially there was a lot of variation, so I suspect diyers who have created shutter speed testers with a single sensor might be getting readings that are as accurate as they may think. 
 
+After realizing that pushing the brightness of the 24V LED panel just to squeeze out some IR light did not make sense. I then ordered a small IR panel that claimed to emit at 94nm. 
+
+ ![solderseal](./zirlight.JPG)
+
+ Though this panel never worked as well as I expected. I really needed to push it up against the camera to ensure it would trigger the sensors and the readings were not super consistent across the three sensors. I then decided to try IR diode lasers. 
+
 
