@@ -5,6 +5,5 @@ title: "Camera Shutter Tester"
 category: [_Jekell_]
 image: ./zlaser.JPG
 ---
-A couple of years ago, I began gathering colored glass and small vases from Goodwill. When I had a good collection, I combined them with a couple of sets of outdoor string lights to make colored lights for our backyard.
 
-I drilled a hole in each of 
+In order to any work on cameras, I needed a way to accurately test their shutter speed. I tried a cheap one that works with a phone, but the accuracy was highly suspect and it did not work at very high shutter speeds. If there are commericial ones I have not found them. Making my own proved to be a challenge, mainly because there is no way to know the readings you get from your tester are 100 percent accurate. 
