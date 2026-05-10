@@ -13,3 +13,5 @@ Like many diy shutter testers found on-line, I began with simple light and a pho
  I read the output on a scope as shown below. There was no reason to suspect that this reading was incorrect or any reason to suspect is was completely accurate. 
 
  ![solderseal](./zbump.JPG)
+
+ I honestly cannot remember all the interations I went through, but I landed on a design that uses the OPL560, an photodiode with integrated logic. 
