@@ -26,8 +26,16 @@ Like many diy shutter testers found on-line, I began with simple light and a pho
   
  ![solderseal](./zmodeule.JPG)
 
- I did a lot of testing in this configuration. Originally, I used a 24V LED light panel that I made from a picture frame with magnetic filters. The light is bright--really bright. I measures over 16EV at 100ASA. I found that the sensors which have a wavelength of 935nm (high in the IR range) would only register when this light was on full--essentially it got hot enough to transmit IR light. 
+I did a lot of testing in this configuration. Originally, I used a 24V LED light panel that I made from a picture frame with magnetic filters. The light is bright--really bright. I measures over 16EV at 100ASA. I found that the sensors which have a wavelength of 935nm (high in the IR range) would only register when this light was on full--essentially it got hot enough to transmit IR light. 
 
  ![solderseal](./zbiglight.JPG) 
+
+At the same time, I designed a circuit to display, shutter speed and curtain travel time. Using the scope was just getting too annoying. The circuit measures the shutter speed at each of the three sensors and the speed of both the front and rear curtain. The circuit takes advantage of the state machines inside of the RP2040 to capture everything independantly. I used the scope to confirm that the circuit is accurately reflecting the data from the sensors. The bigger question is: are the sensors accurately reflecting the data from the shutter!
+
+  ![solderseal](./zscreen.JPG)
+
+The above is taken from a Nikon FE2 in very good condition. The shutter speeds from each of the sensors are basically in agreement. The shutter travel time seems a bit faster than the expected 3.3ms noted in the Nikon repair manual. The circuit is able to captures speeds up to 1/4000. I don't have a faster camera. The curtain travel times remain fairly consistent across all speeds, so that is something. I have not yet added any compenstation for the .7mm sensor gap which is more important at higher speeds. 
+
+My bigger concern has been getting consistent readings on all three sensors. One in the upper right corner of the shutter. One in the middle and one in the lower right. Initially there was a lot of variation, so I suspect diyers who have created shutter speed testers with a single sensor might be getting readings that are as accurate as they may think. 
 
 
