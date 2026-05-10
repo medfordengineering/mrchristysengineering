@@ -8,7 +8,7 @@ In order to any work on cameras, I needed a way to accurately test their shutter
 
 Like many diy shutter testers found on-line, I began with simple light and a phototransistor sensitive in the ambient light range. 
 
- ![solderseal2](./zearly.JPG)
+ ![solderseal2](./zscope1.JPG)
 
  I read the output on a scope as shown below. There was no reason to suspect that this reading was incorrect or any reason to suspect is was completely accurate. 
 
