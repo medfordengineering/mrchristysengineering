@@ -58,6 +58,8 @@ After realizing that pushing the brightness of the 24V LED panel just to squeeze
 
    ![solderseal](./zthreeleds.JPG)
 
+   This is where things stand. At this point I think the results are certainly good enough to adjust a camera's shutter speeds to within an acceptable range. I still would really love a way to corroborate my findings and feel more confident with my readings. 
+
     
 
 
