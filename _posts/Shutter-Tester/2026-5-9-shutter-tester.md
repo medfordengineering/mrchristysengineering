@@ -26,6 +26,8 @@ Like many diy shutter testers found on-line, I began with simple light and a pho
   
  ![solderseal](./zmodeule.JPG)
 
- I did a lot of testing in this configuration. Originally, I used a 24 
+ I did a lot of testing in this configuration. Originally, I used a 24V LED light panel that I made from a picture frame with magnetic filters. The light is bright--really bright. I measures over 16EV at 100ASA. I found that the sensors which have a wavelength of 935nm (high in the IR range) would only register when this light was on full--essentially it got hot enough to transmit IR light. 
+
+ ![solderseal](./zbiglight.JPG) 
 
 
