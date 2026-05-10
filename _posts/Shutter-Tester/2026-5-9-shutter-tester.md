@@ -14,4 +14,4 @@ Like many diy shutter testers found on-line, I began with simple light and a pho
 
  ![solderseal](./zbump.JPG)
 
- I honestly cannot remember all the interations I went through, but I landed on a design that uses the OPL560, an photodiode with integrated logic. 
+ I honestly cannot remember all the interations I went through, but I landed on a design that uses the [OPL560](https://www.digikey.com/en/products/detail/tt-electronics-optek-technology/OP950/498711), an photodiode with integrated logic. 
