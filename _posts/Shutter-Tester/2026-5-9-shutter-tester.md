@@ -10,4 +10,6 @@ Like many diy shutter testers found on-line, I began with simple light and a pho
 
  ![solderseal2](./zearly.JPG)
 
- ![solderseal](./glasswire.jpg)
+ I read the output on a scope as shown below. There was no reason to suspect that this reading was incorrect or any reason to suspect is was completely accurate. 
+
+ ![solderseal](./zbump.JPG)
