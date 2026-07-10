@@ -13,7 +13,7 @@ cd "$(dirname "$0")/.."
 
 echo "Resizing/recompressing JPEGs..."
 find _posts _pages assets/images -type f \( -iname '*.jpg' -o -iname '*.jpeg' \) -print0 \
-  | xargs -0 mogrify -resize '2000x2000>' -quality 82 -strip
+  | xargs -0 mogrify -resize '1200x1200>' -quality 82 -strip
 
 echo "Stripping metadata from PNGs..."
 find _posts _pages assets/images -type f -iname '*.png' -print0 \

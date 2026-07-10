@@ -13,11 +13,13 @@ title: Home
     </div>
     <div class="row">
 
+    {% assign is_first_featured = true %}
     {% for post in site.posts %}
 
         {% if post.featured == true %}
 
-            {% include featuredbox.html %}
+            {% include featuredbox.html first=is_first_featured %}
+            {% assign is_first_featured = false %}
 
         {% endif %}
 
