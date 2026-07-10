@@ -149,7 +149,7 @@ section.recent-posts {
 
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .68);
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
@@ -198,7 +198,7 @@ section.recent-posts {
 
 .post-top-meta span {
     font-size: 0.9rem;
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .68);
     display: inline-block;
 }
 
@@ -228,7 +228,7 @@ span.author-meta {
 
 span.post-date,
 span.post-read {
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .68);
 }
 
 span.post-read-more {
@@ -239,7 +239,7 @@ span.post-read-more {
 }
 
 span.post-read-more a {
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .68);
 }
 
 span.post-name a,
@@ -318,7 +318,7 @@ span.post-read-more a:hover {
     padding-top: 15px;
     padding-bottom: 12px;
     font-size: 0.8rem;
-    color: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .68);
     margin-top: 50px;
     margin-bottom: 62px;
     position: relative;
@@ -340,7 +340,7 @@ blockquote {
     border-left: 4px solid #00ab6b;
     padding: 0 20px;
     font-style: italic;
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .68);
 }
 
 .article-post p,
@@ -374,9 +374,9 @@ blockquote {
 
 .share ul li i.fa {
     border: 1px solid #ddd;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
+    width: 44px;
+    height: 44px;
+    line-height: 44px;
     text-align: center;
     border-radius: 50%;
 }
@@ -474,8 +474,8 @@ blockquote {
 
 .share,
 .share a {
-    color: rgba(0, 0, 0, .44);
-    fill: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .68);
+    fill: rgba(0, 0, 0, .68);
 }
 
 .graybg {
@@ -597,23 +597,23 @@ ul.tags li a:hover {
 }
 
 .form-control::-webkit-input-placeholder {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .68);
 }
 
 .form-control:-moz-placeholder {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .68);
 }
 
 .form-control::-moz-placeholder {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .68);
 }
 
 .form-control:-ms-input-placeholder {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .68);
 }
 
 .form-control::-ms-input-placeholder {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .68);
 }
 
 .authorpage h1 {
@@ -729,7 +729,7 @@ img {
     padding: 15px 0 0 0;
     text-align: center;
     margin-bottom: 0rem;
-    color: #999;
+    color: #767676;
     border-top: 1px solid #ddd;
 }
 
@@ -740,7 +740,7 @@ img {
 }
 
 .pointerup i.fa {
-    color: #eaeaea;
+    color: #767676;
 }
 
 .bottompagination span.navigation i {
