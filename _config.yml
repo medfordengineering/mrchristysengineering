@@ -4,6 +4,7 @@ title: "Mr Christy Engineering"
 description: "Mr Christy does engineering projects"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+url: "https://medfordengineering.github.io"
 baseurl: /mrchristysengineering
 # google_analytics: 'UA-46278016-1'
 utterances:
